@@ -3,7 +3,6 @@
 //  User Current Location
 //
 //  Created by Franco Rodrigues on 11/29/21.
-//
 
 
 import CoreLocation
